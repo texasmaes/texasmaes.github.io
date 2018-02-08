@@ -1,0 +1,143 @@
+/* General page guidelines */
+html, head, body, div, a, h1, h2, h3, ul, li, p, img {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+body {
+  padding: 15px 15px 15px 15px;
+  font-family: "Segoe UI Semibold", "Microsoft Sans Serif", "Berlin Sans FB", "Times New Roman", Garamond, sans-serif;
+  /*background-color: #348629;*/
+}
+
+img {
+  display: block;
+  margin: 10px auto 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+p {
+  font-size: 18px;
+}
+
+.subtitle {
+  font-weight: bold;
+  font-size: 26px;
+  margin: 15px 15px 15px 15px;
+}
+
+.title {
+  padding-bottom: 15px;
+  border-bottom: 10px solid #348629;
+}
+
+.nav {
+  padding: 10px 0 10px 0;
+  list-style-type: none;
+  text-align: center;
+  border-bottom: 10px solid #348629;
+}
+
+.nav li {
+  display: inline;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.links {
+  list-style-type: none;
+  text-align: center;
+}
+
+.links li {
+  display: inline;
+  font-size: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+.footer {
+  background-color: #348629;
+  height: 30px;
+}
+
+
+/* Home page guidelines */
+.mission {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+
+/* About Us page guidelines */
+.descript {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+
+/* Events page guidelines */
+.calendar {
+  margin-left: 10%;
+}
+
+
+/* FAQ page guidelines */
+.question {
+  font-weight: bold;
+  font-size: 26px;
+  margin: 25px 15px 5px 15px;
+}
+
+.answer {
+  font-size: 20px;
+  margin-left: 30px;
+  color: #323232;
+}
+
+
+/* Contact Us page guidelines */
+
+
+
+/* Officers page guidelines */
+.cabinet {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.cabinet img {
+  float: left;
+  padding-right: 10px;
+  clear: right;
+}
+
+/*.cabinet ul {
+  list-style-type: none;
+}
+
+.cabinet h3 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.cabinet h4 {
+  font-size: 18px;
+}
+
+.pres img {
+  float: left;
+  padding-right: 10px;
+}*/
